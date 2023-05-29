@@ -1,0 +1,1 @@
+new transformer.hv_head_tx0 phases=3 windings=2 buses=[sourcebus, HV_F0_N111 ] conns=[wye, wye, ] kVs=[66, 22, ] kVAs=[15000, 15000, ] %loadloss=0.001 %noloadloss=0.001 Xhl=0.001 Xht=35 Xlt=30 normamps=144.34 normhkVA=16500  NumTaps=17 MaxTap=1.0715 MinTap=0.8284 enabled=true

@@ -1,0 +1,13 @@
+Clear
+Set DefaultBaseFrequency=50
+New circuit.CRE21 basekv=66 pu=1 angle=0 phases=3 R1=0.52824 X1=2.113 R0=0.59157 X0=1.7747 enabled=true
+Reset
+
+Redirect source.txt
+Redirect linecode.txt
+Redirect HVLine.txt
+Redirect HVTransformer.txt
+Redirect LVTransformer.txt
+Redirect LVLine.txt
+Redirect loadshape.txt
+Redirect load.txt

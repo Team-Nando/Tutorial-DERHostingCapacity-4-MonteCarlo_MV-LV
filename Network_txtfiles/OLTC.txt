@@ -1,0 +1,1 @@
+new regcontrol.OLTC transformer=hv_head_tx0 winding=2 tapwinding=1 vreg=(100) ptratio=(22000 3 sqrt / 100 /) band=1
