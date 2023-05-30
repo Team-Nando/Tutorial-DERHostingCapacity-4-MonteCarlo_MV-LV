@@ -9,14 +9,8 @@ This Tutorial is designed for power engineering students (undergraduate and post
 ## Part 4: Monte Carlo Assessment of PV Hosting Capacity of an Integrated MV-LV Network
 
 The objectives of this tutorial are:
-1. To familiarise with the process by which power engineers can **assess the effects of the Volt-Watt control function (available in most residential PV inverters and used by most standards around the world) on voltages and, thus, on PV hosting capacity**.
-
+1. To familiarise with the process by which power engineers can carry out **Monte Carlo-based time-series analyses and determine the PV Hosting Capacity of a given MV-LV distribution network** considering uncertainties due to customer demand, customer phase connection, PV generation, and PV location.
 2. To continue familiarising with **advanced tools** useful to run distribution network studies involving DERs. You will continue using [OpenDSS](https://www.epri.com/pages/sa/opendss) via the [dss_python](https://github.com/dss-extensions/dss_python) module. And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
-
-- Gain an understanding of the Monte Carlo analysis using an integrated HV-LV network model
-- The simulation will be run multiple times. Each time a different customer phase connection, load, PV profiles, load allocation, and PV allocation are set
-- The box-plots of each penetration level and transformers, lines, and customer attributes will be plotted at last.
-- `Simulation_results_of_different_Num_Run.docx` shows show the comparison of 30, 100, and 200 times simulation results. The number of simulation is a key factor of Monte Carlo simulation.
 
 ### Pre-Requisites for Part 4
 - You should have completed [Part 1](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-1-AdvancedTools_LV), [Part 2](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-2-TimeSeries_LV) and [Part 3](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-3-VoltWatt_LV).
