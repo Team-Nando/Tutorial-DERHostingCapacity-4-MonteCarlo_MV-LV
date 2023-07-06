@@ -1,4 +1,4 @@
-# Tutorial on DER Hosting Capacity - Part 4: Monte Carlo Assessment of PV Hosting Capacity of an Integrated MV-LV Network
+# Tutorial on DER Hosting Capacity - Part 4: Monte Carlo Assessment of PV Hosting Capacity of an Integrated HV-LV Network
 
 ## Tutorial on DER Hosting Capacity
 
@@ -6,10 +6,10 @@ This multi-part Tutorial on Distributed Energy Resource (DER) Hosting Capacity w
 
 This Tutorial is designed for power engineering students (undergraduate and postgraduate), power engineers, researchers, consultants, etc. It requires some knowledge of coding (of course! 🤓) but not too advanced. If you are a decent coder, you will manage 😉.
 
-## Part 4: Monte Carlo Assessment of PV Hosting Capacity of an Integrated MV-LV Network
+## Part 4: Monte Carlo Assessment of PV Hosting Capacity of an Integrated HV-LV Network
 
 The objectives of this tutorial are:
-1. To familiarise with the process by which power engineers can carry out **Monte Carlo-based time-series analyses and determine the PV Hosting Capacity of a given MV-LV distribution network** considering uncertainties due to customer demand, customer phase connection, PV generation, and PV location.
+1. To familiarise with the process by which power engineers can carry out **Monte Carlo-based time-series analyses and determine the PV Hosting Capacity of a given HV-LV (22kV-0.4kV) distribution network** considering uncertainties due to customer demand, customer phase connection, PV generation, and PV location.
 2. To continue familiarising with **advanced tools** useful to run distribution network studies involving DERs. You will continue using [OpenDSS](https://www.epri.com/pages/sa/opendss) via the [dss_python](https://github.com/dss-extensions/dss_python) module. And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
 
 ### Pre-Requisites for Part 4
