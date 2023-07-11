@@ -35,7 +35,8 @@ Enjoy! 🤓
 ## Credits
 ### This Repo and Adaptations to the Original Python Code
 Angela Simonovska (asimonovska@student.unimelb.edu.au)  
-Yushan Hou (yushou@student.unimelb.edu.au)  
+Orlando Pereira Guzman (opereiraguzm@student.unimelb.edu.au)
+Yushan Hou (yushou@student.unimelb.edu.au)
 Jing Zhu (jinzhu5@unimelb.edu.au)  
 Muhammad Zulqarnain Zeb (m.zeb@unimelb.edu.au)  
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
