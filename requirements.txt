@@ -1,4 +1,4 @@
-dss_python==0.10.7.post1
+numpy==1.24.3
+dss_python==0.15.3
 matplotlib==3.5.3
-numpy==1.23.1
 pandas==1.4.3
