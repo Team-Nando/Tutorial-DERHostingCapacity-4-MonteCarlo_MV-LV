@@ -12,11 +12,15 @@ The objectives of this tutorial are:
 1. To familiarise with the process by which power engineers can carry out **Monte Carlo-based time-series analyses and determine the PV Hosting Capacity of a given MV-LV (22kV-0.4kV) distribution network** considering uncertainties due to customer demand, customer phase connection, PV generation, and PV location.
 2. To continue familiarising with **advanced tools** useful to run distribution network studies involving DERs. You will continue using [OpenDSS](https://www.epri.com/pages/sa/opendss) via the [dss_python](https://github.com/dss-extensions/dss_python) module. And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
 
-### Pre-Requisites for Part 4
-- You should have completed [Part 1](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-1-AdvancedTools_LV), [Part 2](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-2-TimeSeries_LV) and [Part 3](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-3-VoltWatt_LV).
-- For this part, you just need Python (Anaconda) and the dss_python module. OpenDSS was only needed in Part 0 for demonstration purposes.
-
 ## Run Part 4
+To make the most of Part 4, you should have completed [Part 1](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-1-AdvancedTools_LV), [Part 2](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-2-TimeSeries_LV) and [Part 3](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-3-VoltWatt_LV).  
+
+Choose one of the options below to run Part 4.
+
+### Cloud Option ☁️: Google Colab
+Just click on the badge <a target="_blank" href="https://colab.research.google.com/github/Team-Nando/Tutorial-DERHostingCapacity-4-MonteCarlo_MV-LV/blob/main/Tutorial-DERHC-4.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg"/></a>. You don't need to install anything 🤓💪.
+
+### Local Option 💻: Jupyter Notebook
 Make sure you have installed Anaconda, the dss_python module, etc. as specified in [Part 0](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python). Otherwise, you will not be able to go through the tutorial. To guarantee that you have all the necessary packages you can also run the  **`requirements.txt`** file using  **`pip install -r requirements.txt`** on the Anaconda prompt.
 
 1. Download all the files using the green **`<> Code`** button at the top right.
@@ -29,7 +33,8 @@ Make sure you have installed Anaconda, the dss_python module, etc. as specified 
    - Go inside the folder and open the **`ipynb`** file
 
 All the tutorial instructions will be in the **`ipynb`** file.
-
+<br>
+<br>
 Enjoy! 🤓
 
 ## Credits
@@ -40,6 +45,7 @@ Yushan Hou (yushou@student.unimelb.edu.au)
 Jing Zhu (jinzhu5@unimelb.edu.au)  
 Muhammad Zulqarnain Zeb (m.zeb@unimelb.edu.au)  
 Fahmi Angkasa (angkasaf@student.unimelb.edu.au)  
+Andres Avila Rojas (aavilarojas@student.unimelb.edu.au)  
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
 
 ### Original Python Code
